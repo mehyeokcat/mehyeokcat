@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mehyeokcat-banner.svg" alt="mehyeokcat" width="600">
+  <img src="img.svg" alt="mehyeokcat" width="600">
 </div>
 
 <br/>
