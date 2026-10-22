@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mehyeokcat-banner.svg" alt="mehyeokcat" width="600">
+  <img src="https://raw.githubusercontent.com/mehyeokcat/mehyeokcat1/main/mehyeokcat-banner.svg" alt="mehyeokcat" width="600">
 </div>
 
 <br/>
