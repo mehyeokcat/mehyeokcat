@@ -155,3 +155,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
 </div>
+<div>
+<h2>📫 Contact</h2>
+- Email: dltkdgur0129@naver.com
+- Blog: [블로그 링크]
+- LinkedIn: [링크]
+</div>
