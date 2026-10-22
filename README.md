@@ -3,7 +3,6 @@
 </div>
 <div align="center">
   <h2>Hi, I'm Sanghyeok Lee 👋<h2/>
-    
   Full-stack developer who works with data. <br>
   I build web services and use data to make them better.
 </div>
