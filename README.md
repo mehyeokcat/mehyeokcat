@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=xeoxxn&fontSize=60&animation=fadeIn&fontAlignY=30"/>
+  <img src="./mehyeokcat-banner.svg" alt="mehyeokcat" width="600">
 </div>
 
 <br/>
