@@ -2,7 +2,7 @@
   <img src="https://github.com/mehyeokcat/mehyeokcat1/blob/main/mehyeok-banner.svg" alt="mehyeokcat" width="600">
 </div>
 <div align="center">
-  Hi, I'm Sanghyeok Lee 👋
+  <h2>Hi, I'm Sanghyeok Lee 👋<h2/>
 </div>
 
 <br/>
