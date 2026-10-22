@@ -53,37 +53,6 @@
 <br/>
 
 <div align="center">
-  <h2>🏆 Awards</h2>
-
-  <table align="center">
-    <thead>
-      <tr>
-        <th>대회명</th>
-        <th>수상명</th>
-        <th>프로젝트 및 역할</th>
-        <th>날짜</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
   <h2>🚀 Featured Projects</h2>
 
   <table align="center">
