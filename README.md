@@ -157,7 +157,7 @@
 </div>
 <div>
 <h2>📫 Contact</h2>
-- Email: dltkdgur0129@naver.com
-- Blog: [블로그 링크]
+- Email: dltkdgur0129@naver.com <br>
+- Blog: [블로그 링크] <br>
 - LinkedIn: [링크]
 </div>
